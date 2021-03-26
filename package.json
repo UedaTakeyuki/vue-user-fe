@@ -1,6 +1,6 @@
 {
   "name": "vue-user-fe",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/vue-user-fe.ssr.js",
   "browser": "dist/vue-user-fe.esm.js",
